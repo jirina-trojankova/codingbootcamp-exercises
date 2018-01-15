@@ -1,0 +1,13 @@
+h1 {
+    color: rgba(11, 11, 61, 0.726);
+}
+h2 {
+    color: rgba(11, 11, 61, 0.5);
+}
+body{
+    background-color: #58090983;
+    color: rgb(48, 3, 3);
+}
+.articles {
+    background-color: rgba(46, 14, 77, 0.199);
+}

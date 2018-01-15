@@ -1,3 +1,3 @@
 $('button').on('click', function(){
-    $('body').css('opacity', 0);
+    $('body').css('opacity', 0.25);
 });

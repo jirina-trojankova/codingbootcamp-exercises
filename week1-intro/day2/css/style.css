@@ -4,6 +4,7 @@ font-size: 1em;
 background-color: #444444;
 font-family: "Trebuchet MS", sans-serif;
 color: white;
+
 }
 
 a {
@@ -20,10 +21,16 @@ background-color: white;
 }
 
 button {
+    cursor: pointer;
     border-radius: 4px;
     font-size: 1.25rem;
     padding: 0.75rem 1rem;
     border: 1px solid white;
     background-color: blue;
     color: white;
+}
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
